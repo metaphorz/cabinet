@@ -1,0 +1,175 @@
+{
+  "requestedIds": [
+    5,
+    6,
+    7,
+    9,
+    10,
+    11,
+    13,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "details": [
+    {
+      "id": 5,
+      "status": "verified-gallery-detail",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Cornelis_van_Damen_-_Rocky_landscape_with_nomads.jpg",
+      "credit": "Willem van Haecht, The Gallery of Cornelis van der Geest (1628), detail; Rubenshuis, City of Antwerp Collection",
+      "recommendedFallback": "Crop the corresponding artwork from unnumberedGallery at browser runtime. Use gallery detail attribution; do not label as photograph of standalone original.",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cornelis_van_Damen_-_Rocky_landscape_with_nomads.jpg",
+      "resolution": [
+        651,
+        502
+      ],
+      "rights": "Public-domain painting; Wikimedia Commons PD-Art/PDM",
+      "urlVerification": "Exact direct image URL observed by clicking original-file link on Commons.",
+      "notes": "File page explicitly states this is a detail of The Gallery of Cornelis van der Geest representing Cornelis van Dalem. Filename misspells Dalem as Damen. No higher resolution exists on this file page."
+    },
+    {
+      "id": 6,
+      "status": "no-verified-preexisting-detail-found",
+      "imageUrl": null,
+      "credit": "Willem van Haecht, The Gallery of Cornelis van der Geest (1628), detail; Rubenshuis, City of Antwerp Collection",
+      "recommendedFallback": "Crop the corresponding artwork from unnumberedGallery at browser runtime. Use gallery detail attribution; do not label as photograph of standalone original."
+    },
+    {
+      "id": 7,
+      "status": "no-verified-preexisting-detail-found",
+      "imageUrl": null,
+      "credit": "Willem van Haecht, The Gallery of Cornelis van der Geest (1628), detail; Rubenshuis, City of Antwerp Collection",
+      "recommendedFallback": "Crop the corresponding artwork from unnumberedGallery at browser runtime. Use gallery detail attribution; do not label as photograph of standalone original."
+    },
+    {
+      "id": 9,
+      "status": "no-verified-preexisting-detail-found",
+      "imageUrl": null,
+      "credit": "Willem van Haecht, The Gallery of Cornelis van der Geest (1628), detail; Rubenshuis, City of Antwerp Collection",
+      "recommendedFallback": "Crop the corresponding artwork from unnumberedGallery at browser runtime. Use gallery detail attribution; do not label as photograph of standalone original."
+    },
+    {
+      "id": 10,
+      "status": "no-verified-preexisting-detail-found",
+      "imageUrl": null,
+      "credit": "Willem van Haecht, The Gallery of Cornelis van der Geest (1628), detail; Rubenshuis, City of Antwerp Collection",
+      "recommendedFallback": "Crop the corresponding artwork from unnumberedGallery at browser runtime. Use gallery detail attribution; do not label as photograph of standalone original."
+    },
+    {
+      "id": 11,
+      "status": "no-verified-preexisting-detail-found",
+      "imageUrl": null,
+      "credit": "Willem van Haecht, The Gallery of Cornelis van der Geest (1628), detail; Rubenshuis, City of Antwerp Collection",
+      "recommendedFallback": "Crop the corresponding artwork from unnumberedGallery at browser runtime. Use gallery detail attribution; do not label as photograph of standalone original."
+    },
+    {
+      "id": 13,
+      "status": "no-verified-preexisting-detail-found",
+      "imageUrl": null,
+      "credit": "Willem van Haecht, The Gallery of Cornelis van der Geest (1628), detail; Rubenshuis, City of Antwerp Collection",
+      "recommendedFallback": "Crop the corresponding artwork from unnumberedGallery at browser runtime. Use gallery detail attribution; do not label as photograph of standalone original."
+    },
+    {
+      "id": 15,
+      "status": "no-verified-preexisting-detail-found",
+      "imageUrl": null,
+      "credit": "Willem van Haecht, The Gallery of Cornelis van der Geest (1628), detail; Rubenshuis, City of Antwerp Collection",
+      "recommendedFallback": "Crop the corresponding artwork from unnumberedGallery at browser runtime. Use gallery detail attribution; do not label as photograph of standalone original."
+    },
+    {
+      "id": 16,
+      "status": "verified-gallery-detail",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Danae_by_Willem_van_Haecht.jpg",
+      "credit": "Willem van Haecht, The Gallery of Cornelis van der Geest (1628), detail; Rubenshuis, City of Antwerp Collection",
+      "recommendedFallback": "Crop the corresponding artwork from unnumberedGallery at browser runtime. Use gallery detail attribution; do not label as photograph of standalone original.",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Danae_by_Willem_van_Haecht.jpg",
+      "resolution": [
+        692,
+        568
+      ],
+      "rights": "Public-domain painting; Wikimedia Commons PD-Art/PDM",
+      "urlVerification": "File identity and resolution verified from Commons; direct upload URL derived from standard Commons MD5 filename path; browser fetch not locally tested",
+      "notes": "Commons file description explicitly identifies a detail from the gallery; source File:The Gallery of Cornelis van der Geest.JPG. Do not describe as separate surviving Danaë original."
+    },
+    {
+      "id": 17,
+      "status": "no-verified-preexisting-detail-found",
+      "imageUrl": null,
+      "credit": "Willem van Haecht, The Gallery of Cornelis van der Geest (1628), detail; Rubenshuis, City of Antwerp Collection",
+      "recommendedFallback": "Crop the corresponding artwork from unnumberedGallery at browser runtime. Use gallery detail attribution; do not label as photograph of standalone original."
+    },
+    {
+      "id": 18,
+      "status": "no-verified-preexisting-detail-found",
+      "imageUrl": null,
+      "credit": "Willem van Haecht, The Gallery of Cornelis van der Geest (1628), detail; Rubenshuis, City of Antwerp Collection",
+      "recommendedFallback": "Crop the corresponding artwork from unnumberedGallery at browser runtime. Use gallery detail attribution; do not label as photograph of standalone original."
+    },
+    {
+      "id": 19,
+      "status": "no-verified-preexisting-detail-found",
+      "imageUrl": null,
+      "credit": "Willem van Haecht, The Gallery of Cornelis van der Geest (1628), detail; Rubenshuis, City of Antwerp Collection",
+      "recommendedFallback": "Crop the corresponding artwork from unnumberedGallery at browser runtime. Use gallery detail attribution; do not label as photograph of standalone original."
+    }
+  ],
+  "unnumberedGallery": {
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Haecht%2C_Willem_van_-_The_Gallery_of_Cornelis_van_der_Geest_-_1628.jpeg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/Haecht%2C_Willem_van_-_The_Gallery_of_Cornelis_van_der_Geest_-_1628.jpeg",
+    "resolution": [
+      9657,
+      7191
+    ],
+    "rights": "Public-domain painting; Wikimedia Commons PD-Art/PDM",
+    "credit": "Willem van Haecht, The Gallery of Cornelis van der Geest (1628), detail; Rubenshuis, City of Antwerp Collection",
+    "urlVerification": "File identity and resolution verified from Commons; direct upload URL derived from standard Commons MD5 filename path; browser fetch not locally tested",
+    "type": "unnumbered-whole-gallery",
+    "sizeMB": 35.78,
+    "verificationSource": "https://commons.wikimedia.org/wiki/Category:The_Gallery_of_Cornelis_van_der_Geest_by_Willem_van_Haecht_(Rubenshuis)",
+    "note": "Larger practical source for fresh browser canvas crops of all target works; whole image is not a per-work detail. Category listing verifies exact gallery identity. Standalone file page fetch returned cache miss."
+  },
+  "unassignedHighResolutionDetails": [
+    {
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Willem_van_Haecht_-_The_Gallery_of_Cornelis_van_der_Geest%2C_1628_(cropped2).jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Willem_van_Haecht_-_The_Gallery_of_Cornelis_van_der_Geest%2C_1628_(cropped2).jpg",
+      "resolution": [
+        2005,
+        3258
+      ],
+      "rights": "Public-domain painting; Wikimedia Commons PD-Art/PDM",
+      "credit": "Willem van Haecht, The Gallery of Cornelis van der Geest (1628), detail; Rubenshuis, City of Antwerp Collection",
+      "urlVerification": "File identity and resolution verified from Commons; direct upload URL derived from standard Commons MD5 filename path; browser fetch not locally tested",
+      "status": "subject-unverified-do-not-auto-assign",
+      "notes": "Extracted from 30000px museum master, file page verified through search. Text gives no identification of depicted work; no ID assignment made."
+    },
+    {
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Willem_van_Haecht_-_The_Gallery_of_Cornelis_van_der_Geest%2C_1628_(cropped3).jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Willem_van_Haecht_-_The_Gallery_of_Cornelis_van_der_Geest%2C_1628_(cropped3).jpg",
+      "resolution": [
+        2135,
+        3493
+      ],
+      "rights": "Public-domain painting; Wikimedia Commons PD-Art/PDM",
+      "credit": "Willem van Haecht, The Gallery of Cornelis van der Geest (1628), detail; Rubenshuis, City of Antwerp Collection",
+      "urlVerification": "File identity and resolution verified from Commons; direct upload URL derived from standard Commons MD5 filename path; browser fetch not locally tested",
+      "status": "subject-unverified-do-not-auto-assign",
+      "notes": "Extracted from 30000px museum master, file page verified through search. Text gives no identification of depicted work; no ID assignment made."
+    }
+  ],
+  "audit": {
+    "categoryFileCount": 30,
+    "verifiedRequestedDetails": 2,
+    "priorityIdsWithNoVerifiedDedicatedFile": [
+      6,
+      17,
+      15
+    ],
+    "notes": [
+      "All 30 category filenames inspected; most details show visitors, sculpture/prints, or works outside requested list.",
+      "cropped1 is Woman at Her Toilet, not a requested work. cropped4 category identifies Madonna of the Cherries, already has a standalone asset.",
+      "No downloads attempted in this bounded pass. All image replacements must be verified visually at browser runtime."
+    ]
+  }
+}

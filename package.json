@@ -1,0 +1,14 @@
+{
+  "name": "cornelis-cabinet",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "python3 -m http.server 8000 --directory dist",
+    "check": "node --check dist/main.js && node --check dist/room.js && node --check dist/artworks.js && node scripts/validate-scene.mjs",
+    "package": "node scripts/package-standalone.mjs",
+    "cache-art": "python3 scripts/cache-artworks.py"
+  },
+  "devDependencies": {
+    "esbuild": "0.27.3"
+  }
+}

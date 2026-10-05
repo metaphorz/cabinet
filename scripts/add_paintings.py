@@ -1,0 +1,6 @@
+from pathlib import Path
+p=Path(__file__).resolve().parents[1]/'dist'/'artworks.js'
+s=p.read_text();s=s.rstrip();assert s.endswith('];');s=s[:-2].rstrip()+',\n'+'''{id:24,title:'Shipping beneath a Storm Sky',artist:'An imagined Dutch seascape',date:'New composition in a 17th-century idiom',image:'./assets/original-stormy-seascape.png',ratio:1.5,wall:'back',at:[-5.7,4.63],width:2.65,imagined:true,description:'Sailing ships work through dark water under clouds broken by light. The invented scene brings the maritime world into a collection built around trade and travel.',note:'AI-generated for this reconstruction. This is an original period-inspired composition.'},
+{id:25,title:'Tulips and Irises in a Glass Vase',artist:'An imagined Dutch flower piece',date:'New composition in a 17th-century idiom',image:'./assets/original-flower-still-life.png',ratio:1,wall:'back',at:[.75,6.45],width:1.8,imagined:true,description:'Tulips and irises rise from a glass vessel against a dark ground. The new flower piece evokes a collector’s attention to rare natural forms and fleeting beauty.',note:'AI-generated for this reconstruction. No historical artist or provenance is claimed.'}
+];
+''';p.write_text(s)

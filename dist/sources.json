@@ -1,0 +1,104 @@
+{
+  "1": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Peter_Paul_Rubens_007.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_007.jpg",
+    "resolution": [
+      2024,
+      1445
+    ],
+    "rights": "Public-domain historical painting; Commons PD-Art/PDM record"
+  },
+  "2": {
+    "imageUrl": "https://cdn.sanity.io/images/cxgd3urn/production/5cfaa9d1587eec5861278b13b39fce3b553b644c-2633x3200.jpg",
+    "sourceUrl": "https://www.getty.edu/art/collection/object/11RMAD",
+    "resolution": [
+      2633,
+      3200
+    ],
+    "rights": "Public-domain painting; photo credit Christie\u2019s; no explicit open license found for this supplied photo",
+    "imageSourceUrl": "https://www.theartnewspaper.com/2024/07/03/renaissance-masterpiece-attributed-to-quentin-metsys-bought-by-the-getty-for-%C2%A3106m"
+  },
+  "3": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/Pieter_Aertsen_-_Pancake_bakery.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pieter_Aertsen_-_Pancake_bakery.jpg",
+    "resolution": [
+      4320,
+      2220
+    ],
+    "rights": "Public-domain historical painting; Commons PD-Art/PDM record"
+  },
+  "4": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/90/Peter_Paul_Rubens_(1577-1640)%2C_Portrait_of_a_commander%2C_Christie's_Images.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_(1577-1640)%2C_Portrait_of_a_commander%2C_Christie's_Images.jpg",
+    "resolution": null,
+    "rights": "Public-domain historical painting; Commons PD-Art/PDM record"
+  },
+  "8": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Ceres_en_casa_de_H%C3%A9cuba_(Elsheimer).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ceres_en_casa_de_H%C3%A9cuba_(Elsheimer).jpg",
+    "resolution": [
+      2399,
+      2953
+    ],
+    "rights": "Public-domain historical painting; Commons PD-Art/PDM record"
+  },
+  "12": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Portrait_of_a_Scholar_(SM_766).png",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portrait_of_a_Scholar_(SM_766).png",
+    "resolution": [
+      3757,
+      4922
+    ],
+    "rights": "Public-domain historical painting; Commons PD-Art/PDM record"
+  },
+  "14": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Jan_van_Wildens_001.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jan_van_Wildens_001.jpg",
+    "resolution": [
+      1652,
+      1104
+    ],
+    "rights": "Public-domain historical painting; Commons PD-Art/PDM record"
+  },
+  "20": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Paul_Bril_-_Berglandschap_met_saters_en_geiten_bij_een_waterval_-_RH.S.227_-_Rubenshuis.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paul_Bril_-_Berglandschap_met_saters_en_geiten_bij_een_waterval_-_RH.S.227_-_Rubenshuis.jpg",
+    "resolution": [
+      7447,
+      5516
+    ],
+    "rights": "Public-domain historical painting; Commons PD-Art/PDM record",
+    "museumImageUrl": "https://media.antwerpen.be/download/18/E/E1IQTsIzebQhVKVjxTyRTACl/DIG23998.jpg"
+  },
+  "5": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Cornelis_van_Damen_-_Rocky_landscape_with_nomads.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cornelis_van_Damen_-_Rocky_landscape_with_nomads.jpg",
+    "credit": "Willem van Haecht, The Gallery of Cornelis van der Geest (1628), detail; Rubenshuis, City of Antwerp Collection",
+    "rights": "Public-domain painting; Wikimedia Commons PD-Art/PDM",
+    "resolution": [
+      651,
+      502
+    ],
+    "kind": "gallery-detail"
+  },
+  "16": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Danae_by_Willem_van_Haecht.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Danae_by_Willem_van_Haecht.jpg",
+    "credit": "Willem van Haecht, The Gallery of Cornelis van der Geest (1628), detail; Rubenshuis, City of Antwerp Collection",
+    "rights": "Public-domain painting; Wikimedia Commons PD-Art/PDM",
+    "resolution": [
+      692,
+      568
+    ],
+    "kind": "gallery-detail"
+  },
+  "_gallery": {
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/Haecht%2C_Willem_van_-_The_Gallery_of_Cornelis_van_der_Geest_-_1628.jpeg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Haecht,_Willem_van_-_The_Gallery_of_Cornelis_van_der_Geest_-_1628.jpeg",
+    "resolution": [
+      9657,
+      7191
+    ],
+    "rights": "Public domain, Wikimedia Commons"
+  }
+}

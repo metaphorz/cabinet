@@ -1,0 +1,292 @@
+{
+  "gallery": {
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Willem_van_Haecht_-_The_Gallery_of_Cornelis_van_der_Geest%2C_1628.jpg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/Willem_van_Haecht_-_The_Gallery_of_Cornelis_van_der_Geest%2C_1628.jpg",
+    "resolution": [
+      30000,
+      21806
+    ],
+    "rights": "Public domain / museum source Antwerp",
+    "sizeBytes": 533400918,
+    "practicalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Willem_van_Haecht_-_The_Gallery_of_Cornelis_van_der_Geest%2C_1628.jpg/3840px-Willem_van_Haecht_-_The_Gallery_of_Cornelis_van_der_Geest%2C_1628.jpg",
+    "practicalUrlVerification": "3840×2791 derivative offered by verified Commons page; upload.wikimedia thumbnail URL derived from standard layout",
+    "alternate": {
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Gallery_of_Cornelis_van_der_Geest%2C_by_Willem_van_Haecht.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/02/The_Gallery_of_Cornelis_van_der_Geest%2C_by_Willem_van_Haecht.jpg",
+      "resolution": [
+        3424,
+        2586
+      ],
+      "urlVerification": "Exact original image URL observed in web image search"
+    }
+  },
+  "paintings": [
+    {
+      "id": 1,
+      "title": "Battle of the Amazons",
+      "artist": "Peter Paul Rubens",
+      "status": "exact-standalone",
+      "localFile": null,
+      "downloadStatus": "Not downloaded: shell DNS/network blocked",
+      "notes": "Correct Munich version, not the earlier Rubens/Brueghel Potsdam Battle.",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_007.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Peter_Paul_Rubens_007.jpg",
+      "resolution": [
+        2024,
+        1445
+      ],
+      "rights": "Public-domain historical painting; Commons PD-Art/PDM record",
+      "urlVerification": "File page verified; original upload URL derived from standard Commons filename MD5 path; network fetch not locally tested"
+    },
+    {
+      "id": 2,
+      "title": "Madonna of the Cherries",
+      "artist": "Quentin Metsys",
+      "status": "exact-standalone",
+      "localFile": null,
+      "downloadStatus": "Not downloaded: shell DNS/network blocked",
+      "notes": "Exact Getty acquisition, museum object 2024.56; image from Christie’s reproduction shared with Art Newspaper.",
+      "imageUrl": "https://cdn.sanity.io/images/cxgd3urn/production/5cfaa9d1587eec5861278b13b39fce3b553b644c-2633x3200.jpg",
+      "resolution": [
+        2633,
+        3200
+      ],
+      "sourceUrl": "https://www.getty.edu/art/collection/object/11RMAD",
+      "imageSourceUrl": "https://www.theartnewspaper.com/2024/07/03/renaissance-masterpiece-attributed-to-quentin-metsys-bought-by-the-getty-for-%C2%A3106m",
+      "rights": "Public-domain painting; photo credit Christie’s; no explicit open license found for this supplied photo"
+    },
+    {
+      "id": 3,
+      "title": "The Pancake Bakery",
+      "artist": "Pieter Aertsen",
+      "status": "exact-standalone",
+      "localFile": null,
+      "downloadStatus": "Not downloaded: shell DNS/network blocked",
+      "notes": "RKD study says van Haecht widened this composition in his gallery painting.",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pieter_Aertsen_-_Pancake_bakery.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/Pieter_Aertsen_-_Pancake_bakery.jpg",
+      "resolution": [
+        4320,
+        2220
+      ],
+      "rights": "Public-domain historical painting; Commons PD-Art/PDM record",
+      "urlVerification": "File page verified; original upload URL derived from standard Commons filename MD5 path; network fetch not locally tested",
+      "practicalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Pieter_Aertsen_-_Pancake_bakery.jpg/2560px-Pieter_Aertsen_-_Pancake_bakery.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Portrait of a Commander",
+      "artist": "Attributed to Peter Paul Rubens",
+      "status": "exact-standalone",
+      "localFile": null,
+      "downloadStatus": "Not downloaded: shell DNS/network blocked",
+      "notes": "Attribution and identification debated. Christie’s provenance links to Cornelis with qualifier possibly.",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_(1577-1640)%2C_Portrait_of_a_commander%2C_Christie's_Images.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/90/Peter_Paul_Rubens_(1577-1640)%2C_Portrait_of_a_commander%2C_Christie's_Images.jpg",
+      "resolution": null,
+      "rights": "Public-domain historical painting; Commons PD-Art/PDM record",
+      "urlVerification": "File page verified; original upload URL derived from standard Commons filename MD5 path; network fetch not locally tested"
+    },
+    {
+      "id": 5,
+      "title": "Landscape with Nomad Families",
+      "artist": "Cornelis van Dalem and Jan van Wechelen",
+      "status": "gallery-crop",
+      "localFile": null,
+      "downloadStatus": "Not downloaded: shell DNS/network blocked",
+      "notes": "Exact gallery rendering survives as Commons crop; Karlsruhe Landscape with Nomads may be another composition, not substituted."
+    },
+    {
+      "id": 6,
+      "title": "Portrait of Albrecht Dürer",
+      "artist": "Tommaso Vincidor",
+      "status": "gallery-crop",
+      "localFile": null,
+      "downloadStatus": "Not downloaded: shell DNS/network blocked",
+      "notes": "Original lost, confirmed by National Galleries Scotland. An engraving and uncertain Van Dyck copy survive; use gallery crop."
+    },
+    {
+      "id": 7,
+      "title": "The Annunciation",
+      "artist": "Attributed to Michiel Coxcie",
+      "status": "gallery-crop",
+      "localFile": null,
+      "downloadStatus": "Not downloaded: shell DNS/network blocked",
+      "notes": "No exact standalone original verified; use gallery crop."
+    },
+    {
+      "id": 8,
+      "title": "Ceres and Stellio",
+      "artist": "Adam Elsheimer and workshop",
+      "status": "exact-standalone",
+      "localFile": null,
+      "downloadStatus": "Not downloaded: shell DNS/network blocked",
+      "notes": "Prado P02181 version: Commons provenance names Cornelis van der Geest (1611?), then Rubens. Distinguish the Agnes Etherington original.",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ceres_en_casa_de_H%C3%A9cuba_(Elsheimer).jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Ceres_en_casa_de_H%C3%A9cuba_(Elsheimer).jpg",
+      "resolution": [
+        2399,
+        2953
+      ],
+      "rights": "Public-domain historical painting; Commons PD-Art/PDM record",
+      "urlVerification": "File page verified; original upload URL derived from standard Commons filename MD5 path; network fetch not locally tested"
+    },
+    {
+      "id": 9,
+      "title": "The Denial of Peter",
+      "artist": "Attributed to Adam de Coster",
+      "status": "gallery-crop",
+      "localFile": null,
+      "downloadStatus": "Not downloaded: shell DNS/network blocked",
+      "notes": "Several De Coster versions found but none reliably matched to gallery; do not substitute a generic Denial."
+    },
+    {
+      "id": 10,
+      "title": "Landscape with the Destruction of Sodom and Gomorrah",
+      "artist": "Gillis Mostaert",
+      "status": "gallery-crop",
+      "localFile": null,
+      "downloadStatus": "Not downloaded: shell DNS/network blocked",
+      "notes": "Multiple versions found, exact matching not established. Use gallery crop."
+    },
+    {
+      "id": 11,
+      "title": "The Last Supper",
+      "artist": "Otto van Veen",
+      "status": "candidate-standalone",
+      "localFile": null,
+      "downloadStatus": "Not downloaded: shell DNS/network blocked",
+      "notes": "Madrid version linked from Commons gallery page. Distinguish Antwerp cathedral altarpiece. Match composition visually before replacing crop.",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:La_%C3%9Altima_Cena%2C_atribuida_a_Otto_van_Veen_(Real_Academia_de_Bellas_Artes_de_San_Fernando).jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/La_%C3%9Altima_Cena%2C_atribuida_a_Otto_van_Veen_(Real_Academia_de_Bellas_Artes_de_San_Fernando).jpg",
+      "resolution": [
+        747,
+        909
+      ],
+      "rights": "Public-domain historical painting; Commons PD-Art/PDM record",
+      "urlVerification": "File page verified; original upload URL derived from standard Commons filename MD5 path; network fetch not locally tested"
+    },
+    {
+      "id": 12,
+      "title": "Portrait of a Scholar",
+      "artist": "Quentin Metsys",
+      "status": "exact-standalone",
+      "localFile": null,
+      "downloadStatus": "Not downloaded: shell DNS/network blocked",
+      "notes": "Städel 766. Commons licensing section PDM by owner; structured data also says CC BY-SA 4.0, so credit Städel Museum and link record.",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portrait_of_a_Scholar_(SM_766).png",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Portrait_of_a_Scholar_(SM_766).png",
+      "resolution": [
+        3757,
+        4922
+      ],
+      "rights": "Public-domain historical painting; Commons PD-Art/PDM record",
+      "urlVerification": "File page verified; original upload URL derived from standard Commons filename MD5 path; network fetch not locally tested",
+      "practicalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Portrait_of_a_Scholar_(SM_766).png/2560px-Portrait_of_a_Scholar_(SM_766).png"
+    },
+    {
+      "id": 13,
+      "title": "The Crane on the Antwerp Quay by the Frozen Scheldt",
+      "artist": "Sebastiaen Vrancx",
+      "status": "candidate-standalone",
+      "localFile": null,
+      "downloadStatus": "Not downloaded: shell DNS/network blocked",
+      "notes": "Rijksmuseum SK-A-1699, 1622. Compare gallery composition before replacing.",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Het_Kranenhoofd_aan_de_Schelde_te_Antwerpen_Rijksmuseum_SK-A-1699.jpeg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Het_Kranenhoofd_aan_de_Schelde_te_Antwerpen_Rijksmuseum_SK-A-1699.jpeg",
+      "resolution": [
+        3976,
+        1954
+      ],
+      "rights": "Public-domain historical painting; Commons PD-Art/PDM record",
+      "urlVerification": "File page verified; original upload URL derived from standard Commons filename MD5 path; network fetch not locally tested",
+      "practicalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Het_Kranenhoofd_aan_de_Schelde_te_Antwerpen_Rijksmuseum_SK-A-1699.jpeg/2560px-Het_Kranenhoofd_aan_de_Schelde_te_Antwerpen_Rijksmuseum_SK-A-1699.jpeg"
+    },
+    {
+      "id": 14,
+      "title": "Hunter with Dogs in a Winter Landscape",
+      "artist": "Jan Wildens",
+      "status": "exact-standalone",
+      "localFile": null,
+      "downloadStatus": "Not downloaded: shell DNS/network blocked",
+      "notes": "Gemäldegalerie Alte Meister Dresden 1133, 1624.",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jan_van_Wildens_001.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Jan_van_Wildens_001.jpg",
+      "resolution": [
+        1652,
+        1104
+      ],
+      "rights": "Public-domain historical painting; Commons PD-Art/PDM record",
+      "urlVerification": "File page verified; original upload URL derived from standard Commons filename MD5 path; network fetch not locally tested"
+    },
+    {
+      "id": 15,
+      "title": "The Last Judgment",
+      "artist": "Hans Rottenhammer",
+      "status": "gallery-crop",
+      "localFile": null,
+      "downloadStatus": "Not downloaded: shell DNS/network blocked",
+      "notes": "Munich version 1598 inv45 known; source says two autograph versions exist, so no unverified replacement."
+    },
+    {
+      "id": 16,
+      "title": "Danaë",
+      "artist": "Willem van Haecht",
+      "status": "gallery-crop",
+      "localFile": null,
+      "downloadStatus": "Not downloaded: shell DNS/network blocked",
+      "notes": "Scholarship questions whether independent original ever existed. Use signed gallery depiction."
+    },
+    {
+      "id": 17,
+      "title": "Still Life with Fruit and Two Monkeys",
+      "artist": "Frans Snyders",
+      "status": "gallery-crop",
+      "localFile": null,
+      "downloadStatus": "Not downloaded: shell DNS/network blocked",
+      "notes": "Christie’s says probable original is Paris Drouot 16–17 March 1987 lot183, Robels177; workshop reduction Norwich Castle. Louvre Three Monkeys is a different composition and must not substitute."
+    },
+    {
+      "id": 18,
+      "title": "The Holy Family with Anne and Joachim",
+      "artist": "Attributed to Frans Floris",
+      "status": "gallery-crop",
+      "localFile": null,
+      "downloadStatus": "Not downloaded: shell DNS/network blocked",
+      "notes": "Exact original not located. Use gallery crop."
+    },
+    {
+      "id": 19,
+      "title": "The Flight into Egypt",
+      "artist": "Frans Francken II and Abraham Govaerts",
+      "status": "gallery-crop",
+      "localFile": null,
+      "downloadStatus": "Not downloaded: shell DNS/network blocked",
+      "notes": "Several standalone versions identified but no verified exact match. Use gallery crop."
+    },
+    {
+      "id": 20,
+      "title": "Mountain Landscape with Satyrs and Goats by a Waterfall",
+      "artist": "Paul Bril",
+      "status": "exact-standalone",
+      "localFile": null,
+      "downloadStatus": "Not downloaded: shell DNS/network blocked",
+      "notes": "Rubenshuis RH.S.227. Rediscovered original, acquired for museum. Do not substitute Marten Ryckaert copy.",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paul_Bril_-_Berglandschap_met_saters_en_geiten_bij_een_waterval_-_RH.S.227_-_Rubenshuis.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Paul_Bril_-_Berglandschap_met_saters_en_geiten_bij_een_waterval_-_RH.S.227_-_Rubenshuis.jpg",
+      "resolution": [
+        7447,
+        5516
+      ],
+      "rights": "Public-domain historical painting; Commons PD-Art/PDM record",
+      "museumImageUrl": "https://media.antwerpen.be/download/18/E/E1IQTsIzebQhVKVjxTyRTACl/DIG23998.jpg",
+      "urlVerification": "File page verified; original upload URL derived from standard Commons filename MD5 path; network fetch not locally tested",
+      "practicalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Paul_Bril_-_Berglandschap_met_saters_en_geiten_bij_een_waterval_-_RH.S.227_-_Rubenshuis.jpg/2560px-Paul_Bril_-_Berglandschap_met_saters_en_geiten_bij_een_waterval_-_RH.S.227_-_Rubenshuis.jpg"
+    }
+  ],
+  "researchNotes": [
+    "All localFile fields null because shell networking/DNS blocked. No images were downloaded.",
+    "Use gallery crops when status is gallery-crop. Candidate assets require visual comparison. No unrelated paintings substituted.",
+    "Historical attribution labels follow user key and should remain qualified."
+  ]
+}

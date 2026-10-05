@@ -1,0 +1,8 @@
+.DS_Store
+node_modules/
+.sites-runtime/
+/validation/
+/.openai/
+/cabinet/
+*.tar.gz
+__pycache__/
